@@ -17,8 +17,7 @@
   
 <!-- <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp> -->
-  
-  A passionate Mobile App & Backend web developer</p>
+   </p>
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="capricorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2651.png">♑</g-emoji> I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills 😊.</li>
