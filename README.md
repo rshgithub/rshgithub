@@ -33,6 +33,7 @@
 
  <div align="center">
 <p dir="auto" align="center"> 
+ 
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rawanSH2696)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/00970592215966)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawan-m-al-shurbaji-75b53521a)  [![LinkedIn](https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b282ff1cd71ca64b?viewMode=1) 
   
 </p>
