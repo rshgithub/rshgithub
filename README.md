@@ -48,6 +48,38 @@
  
  
   <br>
+
+  ### Programming Languages:
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks:
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-v4.2.2-green)
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+- ![NetBeans](https://img.shields.io/badge/NetBeans-%23E41B13.svg?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### Databases:
+- ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+- ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Other Tools:
+- ![Git & Github](https://img.shields.io/badge/Git%20&%20Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![API](https://img.shields.io/badge/API-%2300ACD7.svg?style=for-the-badge&logo=api&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Management and Collaboration:
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 <h2 dir="auto" align="center"><a id="user-content--reach-me-on" class="anchor" aria-hidden="true" href="#-reach-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">🔥</g-emoji> Most Used Languages</h2>
  
  <p dir="auto" align="center">
