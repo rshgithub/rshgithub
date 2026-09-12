@@ -118,13 +118,6 @@ I want to understand **why it works, how it can scale, and how to keep it mainta
 <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Scalability-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Performance-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reliability-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maintainability-203A43?style=for-the-badge"/>
-
 </div>
 
 #### 🧪 Testing & API Development
