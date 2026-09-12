@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rawan%20Al-Shurbaji&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Backend%20Specialized%20%7C%20Software%20Architecture&descSize=16&descAlignY=60&descColor=a8c0cc" width="100%"/> </div> 
-
+ 
   ### 👩‍💻 About Me
 
 I'm a Backend Engineer who enjoys building things from the ground up, from APIs and databases to complete backend systems and web applications.
@@ -60,14 +60,7 @@ I want to understand **why it works, how it can scale, and how to keep it mainta
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ORM-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database%20Design-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Query%20Optimization-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Tenancy-203A43?style=for-the-badge"/>
 
 </div>
 
@@ -101,12 +94,6 @@ I want to understand **why it works, how it can scale, and how to keep it mainta
 <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenID%20Connect-F7931E?style=for-the-badge&logo=openid&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/RBAC-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SSO-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Authorization-203A43?style=for-the-badge"/>
 
 </div>
 
@@ -158,34 +145,6 @@ I want to understand **why it works, how it can scale, and how to keep it mainta
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rshgithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rshgithub&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshgithub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=rshgithub)
 
 </div>
 
