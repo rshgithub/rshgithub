@@ -1,86 +1,220 @@
-<h1 dir="auto" align="center"><a id="user-content-------hi-im-nguyễn-nhật-huy---aka-lil-huy-" class="anchor" aria-hidden="true" href="#------hi-im-nguyễn-nhật-huy---aka-lil-huy-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-<img width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="coding">
-  
-<!--   <img width="200" src="https://camo.githubusercontent.com/f6fdf89a8d9fd4709676413a8036caa11b40657bf5030083bf5417c2a0105cfe/68747470733a2f2f64656e6f6c69622e6769746875622e696f2f616e696d617465642d64656e6f2d6c6f676f2f64656e6f2d636972636c652d32346670732e676966" alt="coding"> -->
-  
-  <br>
-    I'm Rawan <a target="_blank" rel="noopener noreferrer" href="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" data-target="animated-image.originalLink"><img src="https://github.com/oHTGo/oHTGo/raw/main/images/hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="30px"></a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rawan%20Al-Shurbaji&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Backend%20Specialized%20%7C%20Software%20Architecture&descSize=16&descAlignY=60&descColor=a8c0cc" width="100%"/> </div> 
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rshgithub&label=Profile%20views&color=0e75b6&style=flat" alt="rshgithub" /> </p>
+  ### 👩‍💻 About Me
 
-</h1>
- 
-      
-<p dir="auto" align="center">
-<animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer"  data-target="animated-image.originalLink"><img src="https://ravisah.in/images/mobile-app-development.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" align="right"></a>
- 
-  
-<!-- <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
-  </samp> -->
-   </p>
+I'm a Backend Engineer who enjoys building things from the ground up, from APIs and databases to complete backend systems and web applications.
 
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="capricorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2651.png">♑</g-emoji> I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills 😊.</li>
-<li>👨🏻‍💻  I’m currently focusing on <strong>Mobile App Development</strong> developing Android and Flutter Apps</li>
-<li>⚡ I am curious about <strong>Artificial Intellegence</strong> , <strong>Machine Learning</strong> and try to integrate it into my apps .</li>
-<li>🌱 Also I am a <strong>Backend web Developer</strong> , I build API's for my own Apps.</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> I’m looking forward to contribute to <strong>Open Source Projects</strong>.</li>
-<li>Show support by giving <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> to my Repositories.</li>
-</ul>
-  <br>
-  <br>
-<h2 dir="auto" align="center"><a id="user-content--reach-me-on" class="anchor" aria-hidden="true" href="#-reach-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me on</h2>
+I like understanding **how things work behind the scenes**, figuring out how different parts of a system should communicate, and turning messy requirements into something clean and reliable.
 
- <div align="center">
-<p dir="auto" align="center"> 
- 
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rawanSH2696)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/00970592215966)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawan-m-al-shurbaji-75b53521a)  [![LinkedIn](https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b282ff1cd71ca64b?viewMode=1) 
-  
-</p>
-  </div>
+I enjoy working on:
 
- 
-  <br>
+- 🏗️ Backend systems and REST APIs
+- 🌐 Web applications and business platforms
+- 🗄️ Database design and optimization
+- 🔐 Authentication, authorization, and security
+- 📐 System design and software architecture
+- 🚀 Performance, scalability, and reliability
 
+I'm especially interested in the engineering decisions behind a system , **why it's designed a certain way, what happens when it grows, where it can fail, and how to make it better.**
 
-<h2 dir="auto" align="center"><a id="user-content--reach-me-on" class="anchor" aria-hidden="true" href="#-reach-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">🔥</g-emoji> Most Used Languages</h2>
- <div align="center">
- <p dir="auto" align-items="center">
+I don't just want to build something that works.
 
-  ### Programming Languages:
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+I want to understand **why it works, how it can scale, and how to keep it maintainable as it grows.**
 
-### Frameworks:
-![Android Studio](https://img.shields.io/badge/Android%20Studio-v4.2.2-green)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  ![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=Xcode&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)  ![NetBeans](https://img.shields.io/badge/NetBeans-%23E41B13.svg?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  ![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+---
 
-### Databases:
-![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🛠️ Tech Stack
 
-### Other Tools:
-- ![Git & Github](https://img.shields.io/badge/Git%20&%20Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![API](https://img.shields.io/badge/API-%2300ACD7.svg?style=for-the-badge&logo=api&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-Cloud%20Services-yellow)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.2-purple)  ![CSS3](https://img.shields.io/badge/CSS3-blue)
- 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-%23306DE5.svg?style=for-the-badge&logo=stripe&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-lightgrey)  ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+#### 💻 Languages
 
-### Management and Collaboration:
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+<div align="left">
 
-  </p>
-  </div>
- 
-   <br>
- <h2 dir="auto" align="center"><a id="user-content--reach-me-on" class="anchor" aria-hidden="true" href="#-reach-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">⚙️</g-emoji> GitHub Analytics </h2>
- 
- <p dir="auto" align="center">
-<a href="https://github.com/AVS1508">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rshgithub&theme=radical&show_icons=true&locale=en" alt="rshgithub" style="max-width: 100%;" height="180em">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rshgithub&theme=radical" alt="rshgithub"  style="max-width: 100%;" height="180em">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-</p> 
-  
- <h2 dir="auto" align="center"><a id="user-content--reach-me-on" class="anchor" aria-hidden="true" href="#-reach-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg> </h2>
- 
-<p dir="auto" align="center">
- 
- <img style="max-width: 100%" src="https://github-profile-trophy.vercel.app/?username=rshgithub&amp;row=1&amp;column=6&amp;margin-h=8&amp&theme=radical" alt="rshgithub" />
-</p> 
- 
+</div>
+
+#### 🧱 Backend & Web
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Servlet-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</div>
+
+#### 🗄️ Databases & Data
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORM-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Design-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Query%20Optimization-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Tenancy-203A43?style=for-the-badge"/>
+
+</div>
+
+#### ☁️ Cloud & Infrastructure
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+#### 🔄 DevOps & CI/CD
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-203A43?style=for-the-badge"/>
+
+</div>
+
+#### 🔐 Authentication & Security
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenID%20Connect-F7931E?style=for-the-badge&logo=openid&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/RBAC-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSO-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authorization-203A43?style=for-the-badge"/>
+
+</div>
+
+#### ⚡ Distributed Systems & Workflows
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Temporal.io-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scalability-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reliability-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maintainability-203A43?style=for-the-badge"/>
+
+</div>
+
+#### 🧪 Testing & API Development
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Unit%20Testing-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-203A43?style=for-the-badge"/>
+
+</div>
+
+#### 📊 Monitoring & Observability
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logging-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monitoring-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Observability-203A43?style=for-the-badge"/>
+
+</div>
+
+#### 🔀 Version Control & Collaboration
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+
+</div>
+
+#### 🧰 Development Tools
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rshgithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rshgithub&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshgithub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=rshgithub)
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+I enjoy building backend systems, web applications, APIs, and the infrastructure that makes them reliable.
+
+<a href="https://www.linkedin.com/in/rawan-m-al-shurbaji-75b53521a">
+<img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
