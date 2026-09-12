@@ -130,12 +130,6 @@ I want to understand **why it works, how it can scale, and how to keep it mainta
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Unit%20Testing-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Testing-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Manual%20Testing-203A43?style=for-the-badge"/>
-
 </div>
 
 #### 📊 Monitoring & Observability
@@ -143,9 +137,6 @@ I want to understand **why it works, how it can scale, and how to keep it mainta
 <div align="left">
 
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-<img src="https://img.shields.io/badge/Logging-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Monitoring-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Observability-203A43?style=for-the-badge"/>
 
 </div>
 
